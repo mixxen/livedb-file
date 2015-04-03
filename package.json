@@ -1,0 +1,14 @@
+{
+  "name": "livedb-file",
+  "version": "0.0.1",
+  "description": "File database adapter for livedb",
+  "main": "file.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+  },
+  "repository": "git://github.com/mixxen/livedb-file.git",
+  "author": "Alex Cabello",
+  "license": "MIT"
